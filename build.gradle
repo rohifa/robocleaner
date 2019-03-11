@@ -12,6 +12,11 @@ sourceSets {
     }
 }
 
+lombok {
+    version = '1.18.4'
+    sha256 = ""
+}
+
 apply plugin: 'io.spring.dependency-management'
 
 group = 'com.rohifa'
