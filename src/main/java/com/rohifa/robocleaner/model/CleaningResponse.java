@@ -1,4 +1,4 @@
-package com.rohifa.robocleaner.controllers;
+package com.rohifa.robocleaner.model;
 
 import com.rohifa.robocleaner.model.Position;
 import lombok.AllArgsConstructor;

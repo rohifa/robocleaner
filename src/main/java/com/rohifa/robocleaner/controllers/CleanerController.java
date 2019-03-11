@@ -2,6 +2,7 @@ package com.rohifa.robocleaner.controllers;
 
 import com.rohifa.robocleaner.model.Area;
 import com.rohifa.robocleaner.model.CleaningRequest;
+import com.rohifa.robocleaner.model.CleaningResponse;
 import com.rohifa.robocleaner.model.Position;
 import com.rohifa.robocleaner.services.CleaningService;
 import org.springframework.web.bind.annotation.PostMapping;
